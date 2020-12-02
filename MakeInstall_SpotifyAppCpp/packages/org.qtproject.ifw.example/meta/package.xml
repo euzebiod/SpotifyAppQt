@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>SpotifyApp</DisplayName>
+    <Description>Um cliente Spotify em C++ e Qt</Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2018-08-25</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>
