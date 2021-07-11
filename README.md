@@ -1,5 +1,4 @@
 # SpotifyAppCpp
-[Site do Projeto](https://euzebiod.github.io/SpotifyAppQt/)
 
 ## Cliente Spotify feito em C++ com Qt.
 ```
