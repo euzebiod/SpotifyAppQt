@@ -1,4 +1,3 @@
-![exemplo](docs/img/spotifyQt.jpg)
 # SpotifyAppCpp
 [Site do Projeto](https://euzebiod.github.io/SpotifyAppQt/)
 
