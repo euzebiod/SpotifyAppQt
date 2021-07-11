@@ -1,6 +1,6 @@
 ![exemplo](docs/img/spotifyQt.jpg)
 # SpotifyAppCpp
-[Site do Projeto](https://euzebiod.github.io/SpotifyAppCpp//)
+[Site do Projeto](https://euzebiod.github.io/SpotifyAppQt/)
 
 ## Cliente Spotify feito em C++ com Qt.
 ```
